@@ -18,3 +18,13 @@ D:\大學生活\c# 放檔案\C24071041_practice_11_2\WindowsFormsApp3\obj\Debug\
 D:\大學生活\c# 放檔案\C24071041_practice_11_2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
 D:\大學生活\c# 放檔案\C24071041_practice_11_2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
 D:\大學生活\c# 放檔案\C24071041_practice_11_2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\大學生活\c# 放檔案\online practice\C-sharp-Practice\C24071041_practice_11_2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\大學生活\c# 放檔案\online practice\C-sharp-Practice\C24071041_practice_11_2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\大學生活\c# 放檔案\online practice\C-sharp-Practice\C24071041_practice_11_2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\大學生活\c# 放檔案\online practice\C-sharp-Practice\C24071041_practice_11_2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\大學生活\c# 放檔案\online practice\C-sharp-Practice\C24071041_practice_11_2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\大學生活\c# 放檔案\online practice\C-sharp-Practice\C24071041_practice_11_2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\大學生活\c# 放檔案\online practice\C-sharp-Practice\C24071041_practice_11_2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\大學生活\c# 放檔案\online practice\C-sharp-Practice\C24071041_practice_11_2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\大學生活\c# 放檔案\online practice\C-sharp-Practice\C24071041_practice_11_2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\大學生活\c# 放檔案\online practice\C-sharp-Practice\C24071041_practice_11_2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

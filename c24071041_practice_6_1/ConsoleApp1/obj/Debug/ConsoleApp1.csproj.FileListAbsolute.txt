@@ -1,0 +1,7 @@
+D:\大學生活\c# 放檔案\c24071041_practice_6_1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\大學生活\c# 放檔案\c24071041_practice_6_1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\大學生活\c# 放檔案\c24071041_practice_6_1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\大學生活\c# 放檔案\c24071041_practice_6_1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\大學生活\c# 放檔案\c24071041_practice_6_1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\大學生活\c# 放檔案\c24071041_practice_6_1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\大學生活\c# 放檔案\c24071041_practice_6_1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
